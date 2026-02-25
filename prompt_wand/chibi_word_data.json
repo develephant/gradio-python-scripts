@@ -1,0 +1,175 @@
+{
+    "age": [
+        ["20 year old", 2],
+        ["23 year old", 2],
+        ["26 year old", 2],
+        ["32 year old", 2],
+        ["35 year old", 2],
+        ["38 year old", 2]
+    ],
+    "ethnicity": [
+        ["latina", 3],
+        ["black", 3],
+        ["african-american", 3],
+        ["caucasian", 2],
+        ["persian", 2],
+        ["spanish", 2],
+        ["italian", 2]
+    ],
+    "body_type": [
+        ["curvy", 3],
+        ["thicc", 4],
+        ["hourglass", 3],
+        ["sexy", 2]
+    ],
+    "hair_length": [
+        ["long", 3],
+        ["short", 2],
+        ["medium", 2],
+        ["shoulder-length", 2]
+    ],
+    "hair_color": [
+        ["red", 3],
+        ["black", 3],
+        ["blonde", 2],
+        ["brown", 2],
+        ["pink", 2],
+        ["purple", 2]
+    ],
+    "hair_style": [
+        ["in a bun", 3],
+        ["curled", 2],
+        ["braided", 2],
+        ["straight", 2],
+        ["in a pony-tail", 2],
+        ["in a high-pony", 3]
+    ],
+    "eye_color": [
+        ["green", 3],
+        ["blue", 3],
+        ["hazel", 2],
+        ["light pink", 2],
+        ["brown", 2],
+        ["closed", 2]
+    ],
+    "eye_wear": [
+        ["", 4]
+    ],
+    "mouth": [
+        ["neutral", 4]
+    ],
+    "boobs": [
+        ["small", 2],
+        ["perky", 3],
+        ["medium", 4],
+        ["large", 1]
+    ],
+    "nipples": [
+        ["small", 4],
+        ["tiny",3],
+        ["medium",1]
+    ],
+    "chestwear": [
+        ["tank-top", 2],
+        ["lace bra", 4],
+        ["sexy bra", 3],
+        ["chemise", 3],
+        ["babydoll", 4],
+        ["silk robe", 1],
+        ["bustier", 4],
+        ["bodysuit", 2],
+        ["camisole", 3],
+        ["chemise with lace trim", 4],
+        ["babydoll with lace trim", 3],
+        ["teddy with lace trim", 4]
+    ],
+    "legwear": [
+        ["jumpsuit", 2],
+        ["linen dress", 4],
+        ["lace dress", 2],
+        ["shorts", 2],
+        ["skirt", 4],
+        ["pants", 2],
+        ["stretch pants", 2],
+        ["jeans", 2],
+        ["pajamas", 2],
+        ["boxer shorts", 1],
+        ["panties", 3],
+        ["lace panties", 4],
+        ["bloomers", 2],
+        ["g-string", 4]
+    ],
+    "footware": [
+        ["socks", 2],
+        ["slippers", 2],
+        ["shoes", 3],
+        ["running shoes", 2],
+        ["flats", 3],
+        ["pumps", 2],
+        ["nothing", 1]
+    ],
+    "actions": [
+        ["standing", 4],
+        ["sitting", 3],
+        ["laughing", 2],
+        ["meditating", 2],
+        ["reading", 2],
+        ["relaxing", 3]
+    ],
+    "place": [
+        ["in the bedroom", 1],
+        ["in the living room", 2],
+        ["in the garden", 2],
+        ["at the beach", 1],
+        ["in the park", 1],
+        ["at the zoo", 1],
+        ["in the woods", 1],
+        ["at the office", 1],
+        ["in the mall", 1]
+    ],
+    "camera_shot": [
+        ["full shot", 3],
+        ["medium shot", 2],
+        ["upper-body", 3],
+        ["close-up", 2],
+        ["extreme close-up", 2],
+        ["upper-body", 3],
+        ["profile", 2]
+    ],
+    "camera_view": [
+        ["full view", 3],
+        ["medium view", 2],
+        ["rear view", 3],
+        ["pov", 3],
+        ["high-angle", 2]
+    ],
+    "colors": [
+        ["black", 2],
+        ["white", 2],
+        ["teal", 2],
+        ["pink", 2],
+        ["cream", 2],
+        ["slate blue", 2],
+        ["lavender", 2],
+        ["sage green", 2],
+        ["canary", 2],
+        ["peach", 2],
+        ["brown", 2]
+    ],
+    "other_places": [
+        ["park", 4],
+        ["school", 3],
+        ["office", 2],
+        ["moon", 1],
+        ["beach", 3],
+        ["forest", 2],
+        ["at the park", 2],
+        ["at the beach", 3]
+    ],
+    "other_actions": [
+        ["flirting with the viewer", 3]
+    ],
+    "templates": [
+        "{age} {ethnicity} woman, short height, (thicc) body, {hair_length} {hair_color} hair {hair_style}, {eye_color} eyes. She has a {mouth} look on her face. Wearing a {colors} {chestwear} and {colors} {legwear} and nothing on her feet. She is standing, looking at the viewer, arms to the side. full-body shot, full-view"
+    ]
+}
