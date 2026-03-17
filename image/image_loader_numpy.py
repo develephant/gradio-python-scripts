@@ -46,6 +46,7 @@ def load_image_to_numpy(source):
 
 # Example usage
 if __name__ == "__main__":
+    pass
     # Local file example
     # local_path = "example.jpg"  # Replace with your local image path
     # arr_local = load_image_to_numpy(local_path)
